@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Jung junyoung 👨‍💻
+  Hi there 👋 I'm Jung junyoung 🤣
 </h1>
 
 <h3 align="center">junior developer</h3>
