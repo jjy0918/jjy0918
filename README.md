@@ -49,6 +49,6 @@
  <h3 align="center"> :pushpin: And all :pushpin: </h3>
  <br>
 <p align='center'>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ju0918" height="160">&nbsp
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjy0918&layout=compact" height="160">
+<a href="https://solved.ac/profile/ju0918"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ju0918" height="160">&nbsp</a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjy0918&layout=compact" height="160"></a>
 </p>
