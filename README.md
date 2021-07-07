@@ -4,7 +4,7 @@
   Hi there 👋 I'm Jung junyoung 🤣<br>
 </h1>
 
-<h3 align="center"> :arrow_down: Click Here  :arrow_down:</h3>
+<h3 align="center"> :arrow_down: Click here  :arrow_down:</h3>
 <p align='center'>
   
   <a href="https://9327144.tistory.com/">
