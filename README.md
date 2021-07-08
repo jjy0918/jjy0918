@@ -13,7 +13,7 @@
    <a href="https://github.com/jjy0918/Resume">
 <img src="https://img.shields.io/badge/Resume -gray?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white" height="30"/></a>&nbsp;&nbsp;
 
- <a href="https://drive.google.com/file/d/1PbwPUzZefp-J9T4YUO8C8um49jglb7Qb/view?usp=sharing">
+ <a href="https://drive.google.com/file/d/1PbwPUzZefp-J9T4YUO8C8um49jglb7Qb/view?usp=sharing" target='_blank'>
 <img src="https://img.shields.io/badge/Portfolio -blue?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white" height="30"/></a>&nbsp;&nbsp;
 
 </p>
